@@ -1,0 +1,26 @@
+.container {
+  max-width: 900px;
+}
+
+.card {
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card-body {
+  padding: 8px;
+}
+
+img {
+  max-height: 80px;
+  object-fit: cover;
+}
+
+.btn {
+  font-size: 12px;
+  padding: 4px 8px;
+}
+
+.table-sm td {
+  padding: 0.5rem;
+}

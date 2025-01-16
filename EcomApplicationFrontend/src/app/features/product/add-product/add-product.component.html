@@ -1,0 +1,296 @@
+<!-- Modal -->
+<app-navbar></app-navbar>
+<div class="d-flex justify-content-center mt-4">
+  <button
+    class="btn btn-lg btn-success shadow-sm hover:btn-success"
+    (click)="openModal()"
+  >
+    Add Product
+  </button>
+</div>
+<div
+  class="modal fade"
+  id="addProductModal"
+  tabindex="-1"
+  aria-labelledby="addProductModalLabel"
+  aria-hidden="true"
+>
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header bg-primary text-white">
+        <h5 class="modal-title" id="addProductModalLabel">
+          <i class="bi bi-box"></i> Add New Product
+        </h5>
+        <button
+          type="button"
+          class="btn-close"
+          (click)="closeModal()"
+          aria-label="Close"
+        ></button>
+      </div>
+      <div class="modal-body">
+        <form [formGroup]="productForm" class="row g-3">
+          <div class="col-md-6">
+            <label for="prName" class="form-label">Product Name</label>
+            <input
+              type="text"
+              id="prName"
+              class="form-control shadow-sm"
+              formControlName="prName"
+              placeholder="Enter product name"
+              [class.is-invalid]="
+                productForm.get('prName')?.invalid &&
+                productForm.get('prName')?.touched
+              "
+              required
+            />
+            <div class="invalid-feedback">Product Name is required.</div>
+          </div>
+          <div class="col-md-6">
+            <label for="prImageFile" class="form-label">Product Image</label>
+            <input
+              type="file"
+              id="prImageFile"
+              accept="image/png, image/jpg"
+              class="form-control shadow-sm"
+              (change)="onFileSelect($event)"
+              required
+            />
+          </div>
+          <div class="col-md-6">
+            <label for="prCategory" class="form-label">Category</label>
+            <input
+              type="text"
+              id="prCategory"
+              class="form-control shadow-sm"
+              formControlName="prCategory"
+              placeholder="Enter product category"
+              [class.is-invalid]="
+                productForm.get('prCategory')?.invalid &&
+                productForm.get('prCategory')?.touched
+              "
+              required
+            />
+            <div class="invalid-feedback">Product category is required.</div>
+          </div>
+          <div class="col-md-6">
+            <label for="prBrand" class="form-label">Brand</label>
+            <input
+              type="text"
+              id="prBrand"
+              class="form-control shadow-sm"
+              formControlName="prBrand"
+              placeholder="Enter product brand"
+              [class.is-invalid]="
+                productForm.get('prBrand')?.invalid &&
+                productForm.get('prBrand')?.touched
+              "
+              required
+            />
+            <div class="invalid-feedback">Product Brand is required.</div>
+          </div>
+          <div class="col-md-6">
+            <label for="sellingPrice" class="form-label">Selling Price</label>
+            <input
+              type="number"
+              id="sellingPrice"
+              class="form-control shadow-sm"
+              formControlName="sellingPrice"
+              placeholder="Enter selling price"
+              required
+            />
+            <div
+              *ngIf="
+                productForm.get('sellingPrice')?.invalid &&
+                productForm.get('sellingPrice')?.touched
+              "
+            >
+              <small class="text-danger">Selling price is required.</small>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <label for="purchasePrice" class="form-label">Purchase Price</label>
+            <input
+              type="number"
+              id="purchasePrice"
+              class="form-control shadow-sm"
+              formControlName="purchasePrice"
+              placeholder="Enter purchase price"
+              required
+            />
+            <div
+              *ngIf="productForm.errors?.['priceNotValid'] && productForm.touched"
+            >
+              <small class="text-danger"
+                >Selling price must be greater than purchase price.</small
+              >
+            </div>
+            <div
+              *ngIf="
+                productForm.get('purchasePrice')?.invalid &&
+                productForm.get('purchasePrice')?.touched
+              "
+            >
+              <small class="text-danger">Purchase price is required.</small>
+            </div>
+          </div>
+
+          <div class="col-md-6">
+            <label for="purchaseDate" class="form-label">Purchase Date</label>
+            <input
+              type="date"
+              [max]="todayDate"
+              [min]="todayDate"
+              id="purchaseDate"
+              class="form-control shadow-sm"
+              formControlName="purchaseDate"
+              required
+            />
+          </div>
+          <div class="col-md-6">
+            <label for="stock" class="form-label">Stock</label>
+            <input
+              type="number"
+              id="stock"
+              class="form-control shadow-sm"
+              formControlName="stock"
+              placeholder="Enter stock quantity"
+              [class.is-invalid]="
+                productForm.get('stock')?.invalid &&
+                productForm.get('stock')?.touched
+              "
+              required
+            />
+            <div class="invalid-feedback">Stock quantity is required.</div>
+          </div>
+        </form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" (click)="closeModal()">
+          <i class="bi bi-x-circle"></i> Close
+        </button>
+        <button
+          *ngIf="!isupdate"
+          type="button"
+          class="btn btn-primary"
+          (click)="submitProduct()"
+        >
+          <i class="bi bi-save"></i> Save Product
+        </button>
+        <button
+          *ngIf="isupdate"
+          type="button"
+          class="btn btn-primary"
+          (click)="editProduct()"
+        >
+          <i class="bi bi-save"></i> Update Product
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--Product Grid Start-->
+
+<div class="container mt-5">
+  <h2 class="text-center mb-4">Product Inventory</h2>
+  <div class="table-responsive">
+    <table class="table table-bordered table-hover table-striped shadow-sm">
+      <thead class="table-dark">
+        <tr>
+          <th>Product Name</th>
+          <th>Category</th>
+          <th>Brand</th>
+          <th>Selling Price</th>
+          <th>Purchase Price</th>
+          <th>Purchase Date</th>
+          <th>Stock</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let product of products; let i = index">
+          <td>{{ product.prName }}</td>
+          <td>{{ product.prCategory }}</td>
+          <td>{{ product.prBrand }}</td>
+          <td>${{ product.sellingPrice }}</td>
+          <td>${{ product.purchasePrice }}</td>
+          <td>{{ product.purchaseDate | date : "shortDate" }}</td>
+          <td>{{ product.stock }}</td>
+          <td>
+            <button
+              class="btn btn-warning btn-sm me-2"
+              (click)="updateModal(product)"
+            >
+              <i class="bi bi-pencil"></i> Edit
+            </button>
+            <button
+              class="btn btn-danger btn-sm me-2"
+              (click)="deleteProduct(product.prId)"
+            >
+              <i class="bi bi-trash"></i> Delete
+            </button>
+            <button
+              type="button"
+              class="btn btn-sm btn-info"
+              (click)="viewProduct(product)"
+            >
+              <i class="bi bi-eye"></i> View
+            </button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<!--Model view button start -->
+<!-- Modal for Viewing Product Details -->
+<div
+  class="modal fade"
+  id="viewProductModal"
+  tabindex="-1"
+  aria-labelledby="viewProductModalLabel"
+  aria-hidden="true"
+>
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header bg-primary text-white">
+        <h5 class="modal-title" id="viewProductModalLabel">View Product</h5>
+        <button
+          type="button"
+          class="btn-close"
+          (click)="closeViewModal()"
+          aria-label="Close"
+        ></button>
+      </div>
+      <div class="modal-body">
+        <div *ngIf="selectedProduct">
+          <p><strong>Product Name:</strong> {{ selectedProduct.prName }}</p>
+          <p><strong>Category:</strong> {{ selectedProduct.prCategory }}</p>
+          <p><strong>Brand:</strong> {{ selectedProduct.prBrand }}</p>
+          <p><strong>Price:</strong> ${{ selectedProduct.sellingPrice }}</p>
+          <img
+            [src]="selectedProduct.prImage"
+            (error)="
+              selectedProduct.prImage =
+                'https://cdn.pixabay.com/photo/2022/08/01/07/59/vegetables-7357585_640.png'
+            "
+            alt="Product Image"
+            class="img-fluid"
+            style="max-height: 250px; object-fit: contain"
+          />
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button
+          type="button"
+          class="btn btn-secondary"
+          (click)="closeViewModal()"
+        >
+          Close
+        </button>
+      </div>
+    </div>
+  </div>
+</div>

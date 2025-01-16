@@ -1,0 +1,218 @@
+<app-navbar></app-navbar>
+<div class="container mt-4">
+  <h2 class="text-center mb-4">My Cart</h2>
+
+  <!-- Empty Cart Message -->
+  <div *ngIf="cartItems.length === 0" class="text-center">
+    <p>Your cart is empty.</p>
+  </div>
+
+  <!-- Cart Items -->
+  <div *ngIf="cartItems.length > 0" class="row g-3">
+    <!-- Cart Section -->
+    <div class="col-md-8">
+      <div class="card mb-3" *ngFor="let item of cartItems">
+        <div class="row g-0 align-items-center">
+          <div class="col-3">
+            <img
+              [src]="item.imageUrl"
+              (error)="
+                item.imageUrl =
+                  'https://cdn.pixabay.com/photo/2022/08/01/07/59/vegetables-7357585_640.png'
+              "
+              class="img-fluid rounded"
+              alt="Product Image"
+            />
+          </div>
+          <div class="col-9">
+            <div class="card-body py-2">
+              <h6 class="card-title mb-1 text-truncate">
+                {{ item.productName }}
+              </h6>
+              <p class="card-text small text-muted mb-1">
+                Category: {{ item.category }}
+              </p>
+              <p class="card-text small text-muted mb-1">
+                Brand: {{ item.brand }}
+              </p>
+              <p class="card-text small text-success fw-bold">
+                Price: ${{ item.price }}
+              </p>
+              <div class="d-flex align-items-center">
+                <button
+                  class="btn btn-outline-secondary btn-sm"
+                  (click)="decreaseQuantity(item)"
+                >
+                  <i class="bi bi-dash"></i>
+                </button>
+                <span class="mx-2">{{ item.quantity }}</span>
+                <button
+                  class="btn btn-outline-secondary btn-sm"
+                  (click)="increaseQuantity(item)"
+                >
+                  <i class="bi bi-plus"></i>
+                </button>
+              </div>
+              <button
+                (click)="removeCartItem(item.cartId)"
+                class="btn btn-danger btn-sm mt-2"
+              >
+                Remove
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Summary Section -->
+    <div class="col-md-4">
+      <div class="card">
+        <div class="card-header bg-primary text-white">
+          <h5 class="mb-0">Summary</h5>
+        </div>
+        <div class="card-body">
+          <table class="table table-sm">
+            <tbody>
+              <tr>
+                <td>Total Items:</td>
+                <td class="text-end">{{ cartItems.length }}</td>
+              </tr>
+              <tr>
+                <td>Total Price:</td>
+                <td class="text-end">${{ calculateTotalPrice() }}</td>
+              </tr>
+              <tr></tr>
+              <tr class="fw-bold">
+                <td>Grand Total:</td>
+                <td class="text-end">${{ calculateTotalPrice() }}</td>
+              </tr>
+            </tbody>
+          </table>
+          <hr />
+          <div>
+            <h6>Delivery Address</h6>
+            <p class="small">
+              <strong>{{ users.firstName }} {{ users.lastName }}</strong
+              ><br />
+              <strong>{{ stateName }} {{ countryName }}</strong>
+              <br />
+              {{ users.address }} {{ users.mobile }}<br />
+              {{ users.zipcode }}<br />
+              {{ users.email }}
+            </p>
+            <button (click)="openPaymentModal()" class="btn btn-success w-100">
+              Proceed to Checkout
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Payment Modal -->
+<div
+  class="modal fade"
+  id="paymentModal"
+  tabindex="-1"
+  aria-labelledby="exampleModalLabel"
+  aria-hidden="true"
+>
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Enter Card Details</h5>
+        <button
+          type="button"
+          class="btn-close"
+          data-bs-dismiss="modal"
+          aria-label="Close"
+          (click)="closePaymentModal()"
+        ></button>
+      </div>
+      <div class="modal-body">
+        <div class="mb-3">
+          <!-- <form [formGroup]="cardDetailsForm">
+            <div>
+              <label for="exampleFormControlInput1" class="form-label"
+                >Cart Number</label
+              >
+              <input
+                type="number"
+                class="form-control"
+                id="exampleFormControlInput1"
+                placeholder="0000 0000 0000 0000"
+                formControlName="cardNumber"
+                [maxlength]="16"
+                (input)="onCardNumberInput($event)"
+              />
+            </div>
+            <div class="row gap-3">
+              <div class="col-6">
+                <label for="exampleFormControlInput1" class="form-label"
+                  >Expiry Date</label
+                >
+                <input
+                  type="month"
+                  id="expiryDate"
+                  name="expiryDate"
+                  required
+                  maxlength="5"
+                  formControlName="expiryDate"
+                />
+              </div>
+              <div class="col-5">
+                <label for="exampleFormControlInput1" class="form-label"
+                  >CVV</label
+                >
+                <input
+                  type="number"
+                  id="expiryDate"
+                  name="expiryDate"
+                  placeholder="CVV"
+                  maxlength="3"
+                  formControlName="cvv"
+                  [maxlength]="3"
+                  (input)="onCardCvvInput($event)"
+                />
+              </div>
+            </div>
+          </form> -->
+          <!-- Custom Div Containers for Stripe Elements -->
+          <div>
+            <label for="card-number">Card Number:</label>
+            <div id="card-number" #cardNumber></div>
+          </div>
+
+          <div>
+            <label for="card-expiry">Expiry Date:</label>
+            <div id="card-expiry" #expiryDate></div>
+          </div>
+
+          <div>
+            <label for="card-cvv">CVV:</label>
+            <div id="card-cvv" #cvv></div>
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button
+          type="button"
+          class="btn btn-secondary"
+          (click)="closePaymentModal()"
+        >
+          Close
+        </button>
+        <button type="button" class="btn btn-primary" (click)="onClickPayBtn()">
+          Pay
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+@if(isLoading){
+<div class="loader-backdrop">
+  <div class="loader"></div>
+</div>
+}

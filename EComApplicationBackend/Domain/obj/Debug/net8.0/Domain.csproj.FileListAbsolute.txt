@@ -1,0 +1,70 @@
+C:\Users\Mayur Ramdham\Desktop\SmartData\SmartData\Assesment\Asssesment_7\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayur Ramdham\Desktop\SmartData\SmartData\Assesment\Asssesment_7\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Mayur Ramdham\Desktop\SmartData\SmartData\Assesment\Asssesment_7\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Mayur Ramdham\Desktop\SmartData\SmartData\Assesment\Asssesment_7\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mayur Ramdham\Desktop\SmartData\SmartData\Assesment\Asssesment_7\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\Mayur Ramdham\Desktop\SmartData\SmartData\Assesment\Asssesment_7\backend\EComApplication\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Mayur Ramdham\Desktop\SmartData\SmartData\Assesment\Asssesment_7\backend\EComApplication\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Mayur Ramdham\Desktop\SmartData\SmartData\Assesment\Asssesment_7\backend\EComApplication\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Mayur Ramdham\Desktop\SmartData\SmartData\Assesment\Asssesment_7\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Mayur Ramdham\Desktop\SmartData\SmartData\Assesment\Asssesment_7\backend\EComApplication\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Mayur Ramdham\Desktop\SmartData\SmartData\Assesment\Asssesment_7\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Mayur Ramdham\Desktop\SmartData\SmartData\Assesment\Asssesment_7\backend\EComApplication\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\mayurramdham\Desktop\SmartData\Assesment\Asssesment_7\backendzip\backend\EComApplication\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\mayurramdham\Desktop\SmartData\Assesment\Asssesment_7\backendzip\backend\EComApplication\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\mayurramdham\Desktop\SmartData\Assesment\Asssesment_7\backendzip\backend\EComApplication\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\mayurramdham\Desktop\SmartData\Assesment\Asssesment_7\backendzip\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayurramdham\Desktop\SmartData\Assesment\Asssesment_7\backendzip\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\mayurramdham\Desktop\SmartData\Assesment\Asssesment_7\backendzip\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\mayurramdham\Desktop\SmartData\Assesment\Asssesment_7\backendzip\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\mayurramdham\Desktop\SmartData\Assesment\Asssesment_7\backendzip\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\mayurramdham\Desktop\SmartData\Assesment\Asssesment_7\backendzip\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\mayurramdham\Desktop\SmartData\Assesment\Asssesment_7\backendzip\backend\EComApplication\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\mayurramdham\Desktop\SmartData\Assesment\Asssesment_7\backendzip\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\mayurramdham\Desktop\SmartData\Assesment\Asssesment_7\backendzip\backend\EComApplication\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Mayur Ramdham\Desktop\Assement_git\backendzip\backend\EComApplication\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Mayur Ramdham\Desktop\Assement_git\backendzip\backend\EComApplication\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Mayur Ramdham\Desktop\Assement_git\backendzip\backend\EComApplication\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Mayur Ramdham\Desktop\Assement_git\backendzip\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayur Ramdham\Desktop\Assement_git\backendzip\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Mayur Ramdham\Desktop\Assement_git\backendzip\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Mayur Ramdham\Desktop\Assement_git\backendzip\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mayur Ramdham\Desktop\Assement_git\backendzip\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Mayur Ramdham\Desktop\Assement_git\backendzip\backend\EComApplication\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Mayur Ramdham\Desktop\Assement_git\backendzip\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Mayur Ramdham\Desktop\Assement_git\backendzip\backend\EComApplication\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\mayurramdham\Desktop\SmartData\Assesment\Asssesment_7\backend\EComApplication\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\mayurramdham\Desktop\SmartData\Assesment\Asssesment_7\backend\EComApplication\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\mayurramdham\Desktop\SmartData\Assesment\Asssesment_7\backend\EComApplication\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\mayurramdham\Desktop\SmartData\Assesment\Asssesment_7\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayurramdham\Desktop\SmartData\Assesment\Asssesment_7\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\mayurramdham\Desktop\SmartData\Assesment\Asssesment_7\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\mayurramdham\Desktop\SmartData\Assesment\Asssesment_7\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\mayurramdham\Desktop\SmartData\Assesment\Asssesment_7\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\mayurramdham\Desktop\SmartData\Assesment\Asssesment_7\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\mayurramdham\Desktop\SmartData\Assesment\Asssesment_7\backend\EComApplication\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\mayurramdham\Desktop\SmartData\Assesment\Asssesment_7\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\mayurramdham\Desktop\SmartData\Assesment\Asssesment_7\backend\EComApplication\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Mayur Ramdham\Desktop\SmartDataProjects\SmartData\Assesment\Assesment_7ECom\backendStripe\backend\EComApplication\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Mayur Ramdham\Desktop\SmartDataProjects\SmartData\Assesment\Assesment_7ECom\backendStripe\backend\EComApplication\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Mayur Ramdham\Desktop\SmartDataProjects\SmartData\Assesment\Assesment_7ECom\backendStripe\backend\EComApplication\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Mayur Ramdham\Desktop\SmartDataProjects\SmartData\Assesment\Assesment_7ECom\backendStripe\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayur Ramdham\Desktop\SmartDataProjects\SmartData\Assesment\Assesment_7ECom\backendStripe\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Mayur Ramdham\Desktop\SmartDataProjects\SmartData\Assesment\Assesment_7ECom\backendStripe\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Mayur Ramdham\Desktop\SmartDataProjects\SmartData\Assesment\Assesment_7ECom\backendStripe\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mayur Ramdham\Desktop\SmartDataProjects\SmartData\Assesment\Assesment_7ECom\backendStripe\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\Mayur Ramdham\Desktop\SmartDataProjects\SmartData\Assesment\Assesment_7ECom\backendStripe\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Mayur Ramdham\Desktop\SmartDataProjects\SmartData\Assesment\Assesment_7ECom\backendStripe\backend\EComApplication\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Mayur Ramdham\Desktop\SmartDataProjects\SmartData\Assesment\Assesment_7ECom\backendStripe\backend\EComApplication\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Mayur Ramdham\Desktop\SmartDataProjects\SmartData\Assesment\Assesment_7ECom\backendStripe\backend\EComApplication\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Mayur Ramdham\Desktop\EComApplication\EComApplicationBackend\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Mayur Ramdham\Desktop\EComApplication\EComApplicationBackend\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Mayur Ramdham\Desktop\EComApplication\EComApplicationBackend\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Mayur Ramdham\Desktop\EComApplication\EComApplicationBackend\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayur Ramdham\Desktop\EComApplication\EComApplicationBackend\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Mayur Ramdham\Desktop\EComApplication\EComApplicationBackend\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Mayur Ramdham\Desktop\EComApplication\EComApplicationBackend\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mayur Ramdham\Desktop\EComApplication\EComApplicationBackend\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Mayur Ramdham\Desktop\EComApplication\EComApplicationBackend\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Mayur Ramdham\Desktop\EComApplication\EComApplicationBackend\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Mayur Ramdham\Desktop\EComApplication\EComApplicationBackend\Domain\obj\Debug\net8.0\ref\Domain.dll

@@ -1,0 +1,1454 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3693AAC-6FD0-4E9A-8D6A-7B5058239EEC}|EComApplication\\EComApplication.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\ecomapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3693AAC-6FD0-4E9A-8D6A-7B5058239EEC}|EComApplication\\EComApplication.csproj|solutionrelative:ecomapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3693AAC-6FD0-4E9A-8D6A-7B5058239EEC}|EComApplication\\EComApplication.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\ecomapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3693AAC-6FD0-4E9A-8D6A-7B5058239EEC}|EComApplication\\EComApplication.csproj|solutionrelative:ecomapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3693AAC-6FD0-4E9A-8D6A-7B5058239EEC}|EComApplication\\EComApplication.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\ecomapplication\\ecomapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E3693AAC-6FD0-4E9A-8D6A-7B5058239EEC}|EComApplication\\EComApplication.csproj|solutionrelative:ecomapplication\\ecomapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\app\\user\\command\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\app\\user\\command\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\app\\cart\\command\\removecartcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\app\\cart\\command\\removecartcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\app\\cart\\command\\incrementcartcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\app\\cart\\command\\incrementcartcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\model\\cart\\incrementcartquantitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\model\\cart\\incrementcartquantitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\app\\product\\query\\getallproductquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\app\\product\\query\\getallproductquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\app\\product\\query\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\app\\product\\query\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\app\\user\\command\\sendotpcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\app\\user\\command\\sendotpcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\app\\user\\command\\loginotpcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\app\\user\\command\\loginotpcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904C8298-37D2-4049-9B04-C58A68BCD076}|Infrastructure\\Infrastructure.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{904C8298-37D2-4049-9B04-C58A68BCD076}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904C8298-37D2-4049-9B04-C58A68BCD076}|Infrastructure\\Infrastructure.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\infrastructure\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904C8298-37D2-4049-9B04-C58A68BCD076}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\interface\\iappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\interface\\iappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\app\\cart\\command\\paymentwithstripe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\app\\cart\\command\\paymentwithstripe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\app\\cart\\query\\getinvoicedetailsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\app\\cart\\query\\getinvoicedetailsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFDD4BB-AC80-4604-978C-23CC4FBDC365}|Domain\\Domain.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\domain\\entity\\products\\cartdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFDD4BB-AC80-4604-978C-23CC4FBDC365}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\products\\cartdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFDD4BB-AC80-4604-978C-23CC4FBDC365}|Domain\\Domain.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\domain\\entity\\products\\cartmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFDD4BB-AC80-4604-978C-23CC4FBDC365}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\products\\cartmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904C8298-37D2-4049-9B04-C58A68BCD076}|Infrastructure\\Infrastructure.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\infrastructure\\dependancyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904C8298-37D2-4049-9B04-C58A68BCD076}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependancyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904C8298-37D2-4049-9B04-C58A68BCD076}|Infrastructure\\Infrastructure.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\infrastructure\\services\\stripepaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904C8298-37D2-4049-9B04-C58A68BCD076}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\stripepaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\app\\cart\\command\\addpaymentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\app\\cart\\command\\addpaymentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3693AAC-6FD0-4E9A-8D6A-7B5058239EEC}|EComApplication\\EComApplication.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\ecomapplication\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3693AAC-6FD0-4E9A-8D6A-7B5058239EEC}|EComApplication\\EComApplication.csproj|solutionrelative:ecomapplication\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904C8298-37D2-4049-9B04-C58A68BCD076}|Infrastructure\\Infrastructure.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\infrastructure\\migrations\\20250106115911_paymentid salesmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904C8298-37D2-4049-9B04-C58A68BCD076}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250106115911_paymentid salesmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFDD4BB-AC80-4604-978C-23CC4FBDC365}|Domain\\Domain.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\domain\\entity\\products\\salesmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFDD4BB-AC80-4604-978C-23CC4FBDC365}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\products\\salesmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\model\\stripe\\stripedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\model\\stripe\\stripedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\model\\stripe\\paymentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\model\\stripe\\paymentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\app\\cart\\command\\addtocartcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\app\\cart\\command\\addtocartcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\interface\\istripepaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\interface\\istripepaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\model\\cart\\cartpaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\model\\cart\\cartpaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904C8298-37D2-4049-9B04-C58A68BCD076}|Infrastructure\\Infrastructure.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\infrastructure\\services\\emailtemplateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904C8298-37D2-4049-9B04-C58A68BCD076}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\emailtemplateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\interface\\iemailtemplateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\interface\\iemailtemplateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\app\\cart\\command\\decrementcartcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\app\\cart\\command\\decrementcartcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904C8298-37D2-4049-9B04-C58A68BCD076}|Infrastructure\\Infrastructure.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904C8298-37D2-4049-9B04-C58A68BCD076}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\app\\user\\query\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\app\\user\\query\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\app\\cart\\query\\getcartitermcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\app\\cart\\query\\getcartitermcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3693AAC-6FD0-4E9A-8D6A-7B5058239EEC}|EComApplication\\EComApplication.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\ecomapplication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3693AAC-6FD0-4E9A-8D6A-7B5058239EEC}|EComApplication\\EComApplication.csproj|solutionrelative:ecomapplication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\app\\user\\command\\chanepasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\app\\user\\command\\chanepasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\app\\cart\\query\\getcartdetailsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\app\\cart\\query\\getcartdetailsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\app\\product\\command\\addproductcommad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\app\\product\\command\\addproductcommad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\model\\register\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\model\\register\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3693AAC-6FD0-4E9A-8D6A-7B5058239EEC}|EComApplication\\EComApplication.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\ecomapplication\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3693AAC-6FD0-4E9A-8D6A-7B5058239EEC}|EComApplication\\EComApplication.csproj|solutionrelative:ecomapplication\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\model\\product\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\model\\product\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\app\\product\\command\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\app\\product\\command\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\model\\register\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\model\\register\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\interface\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\interface\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\app\\user\\command\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\app\\user\\command\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFDD4BB-AC80-4604-978C-23CC4FBDC365}|Domain\\Domain.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\domain\\entity\\register\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFDD4BB-AC80-4604-978C-23CC4FBDC365}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\register\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\interface\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\interface\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFDD4BB-AC80-4604-978C-23CC4FBDC365}|Domain\\Domain.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\domain\\entity\\products\\salesdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFDD4BB-AC80-4604-978C-23CC4FBDC365}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\products\\salesdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFDD4BB-AC80-4604-978C-23CC4FBDC365}|Domain\\Domain.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\domain\\entity\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFDD4BB-AC80-4604-978C-23CC4FBDC365}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFDD4BB-AC80-4604-978C-23CC4FBDC365}|Domain\\Domain.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\domain\\entity\\products\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFDD4BB-AC80-4604-978C-23CC4FBDC365}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\products\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\model\\register\\otpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\model\\register\\otpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\model\\register\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\model\\register\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\model\\register\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\model\\register\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\model\\register\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\model\\register\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\app\\user\\command\\forgotpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\app\\user\\command\\forgotpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\model\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\model\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\model\\cart\\invoicedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\model\\cart\\invoicedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3693AAC-6FD0-4E9A-8D6A-7B5058239EEC}|EComApplication\\EComApplication.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\ecomapplication\\controllers\\dropdowncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3693AAC-6FD0-4E9A-8D6A-7B5058239EEC}|EComApplication\\EComApplication.csproj|solutionrelative:ecomapplication\\controllers\\dropdowncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\model\\cart\\decrementcartquantitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\model\\cart\\decrementcartquantitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\model\\cart\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\model\\cart\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\model\\cart\\cartdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\model\\cart\\cartdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904C8298-37D2-4049-9B04-C58A68BCD076}|Infrastructure\\Infrastructure.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\infrastructure\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904C8298-37D2-4049-9B04-C58A68BCD076}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\model\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\model\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\generateotp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\generateotp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFDD4BB-AC80-4604-978C-23CC4FBDC365}|Domain\\Domain.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\domain\\entity\\register\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFDD4BB-AC80-4604-978C-23CC4FBDC365}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\register\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFDD4BB-AC80-4604-978C-23CC4FBDC365}|Domain\\Domain.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\domain\\entity\\register\\otp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFDD4BB-AC80-4604-978C-23CC4FBDC365}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\register\\otp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFDD4BB-AC80-4604-978C-23CC4FBDC365}|Domain\\Domain.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\domain\\entity\\register\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFDD4BB-AC80-4604-978C-23CC4FBDC365}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\register\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFDD4BB-AC80-4604-978C-23CC4FBDC365}|Domain\\Domain.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\domain\\entity\\register\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFDD4BB-AC80-4604-978C-23CC4FBDC365}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\register\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3693AAC-6FD0-4E9A-8D6A-7B5058239EEC}|EComApplication\\EComApplication.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\ecomapplication\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3693AAC-6FD0-4E9A-8D6A-7B5058239EEC}|EComApplication\\EComApplication.csproj|solutionrelative:ecomapplication\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904C8298-37D2-4049-9B04-C58A68BCD076}|Infrastructure\\Infrastructure.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\infrastructure\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904C8298-37D2-4049-9B04-C58A68BCD076}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\app\\product\\command\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\app\\product\\command\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\app.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\app.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\dependancyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\dependancyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3693AAC-6FD0-4E9A-8D6A-7B5058239EEC}|EComApplication\\EComApplication.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\ecomapplication\\ecomapplication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E3693AAC-6FD0-4E9A-8D6A-7B5058239EEC}|EComApplication\\EComApplication.csproj|solutionrelative:ecomapplication\\ecomapplication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\app\\dropdown\\getstatesbycountryquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\app\\dropdown\\getstatesbycountryquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\app\\dropdown\\getcountriesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\app\\dropdown\\getcountriesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3693AAC-6FD0-4E9A-8D6A-7B5058239EEC}|EComApplication\\EComApplication.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\ecomapplication\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3693AAC-6FD0-4E9A-8D6A-7B5058239EEC}|EComApplication\\EComApplication.csproj|solutionrelative:ecomapplication\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\app.core\\interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487ED45-A29A-4C3D-ABE0-FB9DEFD80612}|App.core\\App.core.csproj|solutionrelative:app.core\\interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3693AAC-6FD0-4E9A-8D6A-7B5058239EEC}|EComApplication\\EComApplication.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\ecomapplication\\ecomapplication.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E3693AAC-6FD0-4E9A-8D6A-7B5058239EEC}|EComApplication\\EComApplication.csproj|solutionrelative:ecomapplication\\ecomapplication.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904C8298-37D2-4049-9B04-C58A68BCD076}|Infrastructure\\Infrastructure.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\infrastructure\\infrastructure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{904C8298-37D2-4049-9B04-C58A68BCD076}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mayur Ramdham\\Desktop\\SmartData\\SmartData\\Assesment\\Asssesment_7\\backend\\EComApplication\\Infrastructure\\Migrations\\20241128185915_user-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3693AAC-6FD0-4E9A-8D6A-7B5058239EEC}|EComApplication\\EComApplication.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\ecomapplication\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3693AAC-6FD0-4E9A-8D6A-7B5058239EEC}|EComApplication\\EComApplication.csproj|solutionrelative:ecomapplication\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904C8298-37D2-4049-9B04-C58A68BCD076}|Infrastructure\\Infrastructure.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\infrastructure\\migrations\\20241130095809_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904C8298-37D2-4049-9B04-C58A68BCD076}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20241130095809_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904C8298-37D2-4049-9B04-C58A68BCD076}|Infrastructure\\Infrastructure.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\infrastructure\\migrations\\20241202175946_update-product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904C8298-37D2-4049-9B04-C58A68BCD076}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20241202175946_update-product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904C8298-37D2-4049-9B04-C58A68BCD076}|Infrastructure\\Infrastructure.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\infrastructure\\migrations\\20241204192754_invoice-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904C8298-37D2-4049-9B04-C58A68BCD076}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20241204192754_invoice-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904C8298-37D2-4049-9B04-C58A68BCD076}|Infrastructure\\Infrastructure.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\infrastructure\\migrations\\20241204185932_add-sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904C8298-37D2-4049-9B04-C58A68BCD076}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20241204185932_add-sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904C8298-37D2-4049-9B04-C58A68BCD076}|Infrastructure\\Infrastructure.csproj|c:\\users\\mayur ramdham\\desktop\\ecomapplication\\ecomapplicationbackend\\infrastructure\\migrations\\20241205041212_image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904C8298-37D2-4049-9B04-C58A68BCD076}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20241205041212_image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IncrementCartQuantityDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\Cart\\IncrementCartQuantityDto.cs",
+              "RelativeDocumentMoniker": "App.core\\Model\\Cart\\IncrementCartQuantityDto.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\Cart\\IncrementCartQuantityDto.cs",
+              "RelativeToolTip": "App.core\\Model\\Cart\\IncrementCartQuantityDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:16:22.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RemoveCartCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\Cart\\Command\\RemoveCartCommand.cs",
+              "RelativeDocumentMoniker": "App.core\\App\\Cart\\Command\\RemoveCartCommand.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\Cart\\Command\\RemoveCartCommand.cs",
+              "RelativeToolTip": "App.core\\App\\Cart\\Command\\RemoveCartCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:09:23.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\User\\Command\\RegisterUserCommand.cs",
+              "RelativeDocumentMoniker": "App.core\\App\\User\\Command\\RegisterUserCommand.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\User\\Command\\RegisterUserCommand.cs",
+              "RelativeToolTip": "App.core\\App\\User\\Command\\RegisterUserCommand.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwHAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T10:58:01.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EComApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\EComApplication.csproj",
+              "RelativeDocumentMoniker": "EComApplication\\EComApplication.csproj",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\EComApplication.csproj",
+              "RelativeToolTip": "EComApplication\\EComApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T17:46:28.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "EComApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\appsettings.json",
+              "RelativeToolTip": "EComApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-28T18:24:12.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\Program.cs",
+              "RelativeDocumentMoniker": "EComApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\Program.cs",
+              "RelativeToolTip": "EComApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:50:05.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IncrementCartCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\Cart\\Command\\IncrementCartCommand.cs",
+              "RelativeDocumentMoniker": "App.core\\App\\Cart\\Command\\IncrementCartCommand.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\Cart\\Command\\IncrementCartCommand.cs",
+              "RelativeToolTip": "App.core\\App\\Cart\\Command\\IncrementCartCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:17:49.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetProductByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\Product\\Query\\GetProductByIdQuery.cs",
+              "RelativeDocumentMoniker": "App.core\\App\\Product\\Query\\GetProductByIdQuery.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\Product\\Query\\GetProductByIdQuery.cs",
+              "RelativeToolTip": "App.core\\App\\Product\\Query\\GetProductByIdQuery.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:07:28.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "getAllProductQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\Product\\Query\\getAllProductQuery.cs",
+              "RelativeDocumentMoniker": "App.core\\App\\Product\\Query\\getAllProductQuery.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\Product\\Query\\getAllProductQuery.cs",
+              "RelativeToolTip": "App.core\\App\\Product\\Query\\getAllProductQuery.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:43:36.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SendOtpCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\User\\Command\\SendOtpCommand.cs",
+              "RelativeDocumentMoniker": "App.core\\App\\User\\Command\\SendOtpCommand.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\User\\Command\\SendOtpCommand.cs",
+              "RelativeToolTip": "App.core\\App\\User\\Command\\SendOtpCommand.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwDwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:34:40.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginOtpCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\User\\Command\\LoginOtpCommand.cs",
+              "RelativeDocumentMoniker": "App.core\\App\\User\\Command\\LoginOtpCommand.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\User\\Command\\LoginOtpCommand.cs",
+              "RelativeToolTip": "App.core\\App\\User\\Command\\LoginOtpCommand.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAIAwwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:22:02.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T17:39:40.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Interface\\IAppDbContext.cs",
+              "RelativeDocumentMoniker": "App.core\\Interface\\IAppDbContext.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Interface\\IAppDbContext.cs",
+              "RelativeToolTip": "App.core\\Interface\\IAppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:53:03.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetInvoiceDetailsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\Cart\\Query\\GetInvoiceDetailsQuery.cs",
+              "RelativeDocumentMoniker": "App.core\\App\\Cart\\Query\\GetInvoiceDetailsQuery.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\Cart\\Query\\GetInvoiceDetailsQuery.cs",
+              "RelativeToolTip": "App.core\\App\\Cart\\Query\\GetInvoiceDetailsQuery.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwD8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:56:25.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Infrastructure\\Database\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Database\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Infrastructure\\Database\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Database\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:51:51.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaymentWithStripe.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\Cart\\Command\\PaymentWithStripe.cs",
+              "RelativeDocumentMoniker": "App.core\\App\\Cart\\Command\\PaymentWithStripe.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\Cart\\Command\\PaymentWithStripe.cs",
+              "RelativeToolTip": "App.core\\App\\Cart\\Command\\PaymentWithStripe.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAnwDgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T09:36:48.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CartMaster.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Domain\\Entity\\Products\\CartMaster.cs",
+              "RelativeDocumentMoniker": "Domain\\Entity\\Products\\CartMaster.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Domain\\Entity\\Products\\CartMaster.cs",
+              "RelativeToolTip": "Domain\\Entity\\Products\\CartMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:52:14.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CartDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Domain\\Entity\\Products\\CartDetails.cs",
+              "RelativeDocumentMoniker": "Domain\\Entity\\Products\\CartDetails.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Domain\\Entity\\Products\\CartDetails.cs",
+              "RelativeToolTip": "Domain\\Entity\\Products\\CartDetails.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:54:59.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DependancyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Infrastructure\\DependancyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DependancyInjection.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Infrastructure\\DependancyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\DependancyInjection.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:36:00.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddPaymentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\Cart\\Command\\AddPaymentCommand.cs",
+              "RelativeDocumentMoniker": "App.core\\App\\Cart\\Command\\AddPaymentCommand.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\Cart\\Command\\AddPaymentCommand.cs",
+              "RelativeToolTip": "App.core\\App\\Cart\\Command\\AddPaymentCommand.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAnwIAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:42:48.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "EComApplication\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\Controllers\\CartController.cs",
+              "RelativeToolTip": "EComApplication\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAewE0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:08:02.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StripeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\Stripe\\StripeDto.cs",
+              "RelativeDocumentMoniker": "App.core\\Model\\Stripe\\StripeDto.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\Stripe\\StripeDto.cs",
+              "RelativeToolTip": "App.core\\Model\\Stripe\\StripeDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:09:48.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StripePaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Infrastructure\\Services\\StripePaymentService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\StripePaymentService.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Infrastructure\\Services\\StripePaymentService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\StripePaymentService.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAnwHoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T09:55:08.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250106115911_paymentId SalesMaster.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Infrastructure\\Migrations\\20250106115911_paymentId SalesMaster.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250106115911_paymentId SalesMaster.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Infrastructure\\Migrations\\20250106115911_paymentId SalesMaster.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250106115911_paymentId SalesMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T11:59:12.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PaymentResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\Stripe\\PaymentResponseDto.cs",
+              "RelativeDocumentMoniker": "App.core\\Model\\Stripe\\PaymentResponseDto.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\Stripe\\PaymentResponseDto.cs",
+              "RelativeToolTip": "App.core\\Model\\Stripe\\PaymentResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:25:00.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SalesMaster.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Domain\\Entity\\Products\\SalesMaster.cs",
+              "RelativeDocumentMoniker": "Domain\\Entity\\Products\\SalesMaster.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Domain\\Entity\\Products\\SalesMaster.cs",
+              "RelativeToolTip": "Domain\\Entity\\Products\\SalesMaster.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:07:19.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddToCartCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\Cart\\Command\\AddToCartCommand.cs",
+              "RelativeDocumentMoniker": "App.core\\App\\Cart\\Command\\AddToCartCommand.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\Cart\\Command\\AddToCartCommand.cs",
+              "RelativeToolTip": "App.core\\App\\Cart\\Command\\AddToCartCommand.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:50:23.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IStripePaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Interface\\IStripePaymentService.cs",
+              "RelativeDocumentMoniker": "App.core\\Interface\\IStripePaymentService.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Interface\\IStripePaymentService.cs",
+              "RelativeToolTip": "App.core\\Interface\\IStripePaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T09:56:25.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CartPaymentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\Cart\\CartPaymentDto.cs",
+              "RelativeDocumentMoniker": "App.core\\Model\\Cart\\CartPaymentDto.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\Cart\\CartPaymentDto.cs",
+              "RelativeToolTip": "App.core\\Model\\Cart\\CartPaymentDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:44:32.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DecrementCartCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\Cart\\Command\\DecrementCartCommand.cs",
+              "RelativeDocumentMoniker": "App.core\\App\\Cart\\Command\\DecrementCartCommand.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\Cart\\Command\\DecrementCartCommand.cs",
+              "RelativeToolTip": "App.core\\App\\Cart\\Command\\DecrementCartCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:32:52.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IEmailTemplateService.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Interface\\IEmailTemplateService.cs",
+              "RelativeDocumentMoniker": "App.core\\Interface\\IEmailTemplateService.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Interface\\IEmailTemplateService.cs",
+              "RelativeToolTip": "App.core\\Interface\\IEmailTemplateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T10:07:57.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EmailTemplateService.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Infrastructure\\Services\\EmailTemplateService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\EmailTemplateService.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Infrastructure\\Services\\EmailTemplateService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\EmailTemplateService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T10:09:18.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Infrastructure\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Infrastructure\\Services\\EmailService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\EmailService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:50:16.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetUserByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\User\\Query\\GetUserByIdQuery.cs",
+              "RelativeDocumentMoniker": "App.core\\App\\User\\Query\\GetUserByIdQuery.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\User\\Query\\GetUserByIdQuery.cs",
+              "RelativeToolTip": "App.core\\App\\User\\Query\\GetUserByIdQuery.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAIA4wDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:43:08.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "getCartItermCount.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\Cart\\Query\\getCartItermCount.cs",
+              "RelativeDocumentMoniker": "App.core\\App\\Cart\\Query\\getCartItermCount.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\Cart\\Query\\getCartItermCount.cs",
+              "RelativeToolTip": "App.core\\App\\Cart\\Query\\getCartItermCount.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:40:20.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "getCartDetailsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\Cart\\Query\\getCartDetailsQuery.cs",
+              "RelativeDocumentMoniker": "App.core\\App\\Cart\\Query\\getCartDetailsQuery.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\Cart\\Query\\getCartDetailsQuery.cs",
+              "RelativeToolTip": "App.core\\App\\Cart\\Query\\getCartDetailsQuery.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwDEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:59:36.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AddProductCommad.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\Product\\Command\\AddProductCommad.cs",
+              "RelativeDocumentMoniker": "App.core\\App\\Product\\Command\\AddProductCommad.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\Product\\Command\\AddProductCommad.cs",
+              "RelativeToolTip": "App.core\\App\\Product\\Command\\AddProductCommad.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwBEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:07:20.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "EComApplication\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\Controllers\\UserController.cs",
+              "RelativeToolTip": "EComApplication\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAIBJwDwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:35:00.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ChanePasswordCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\User\\Command\\ChanePasswordCommand.cs",
+              "RelativeDocumentMoniker": "App.core\\App\\User\\Command\\ChanePasswordCommand.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\User\\Command\\ChanePasswordCommand.cs",
+              "RelativeToolTip": "App.core\\App\\User\\Command\\ChanePasswordCommand.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T09:44:40.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\Register\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "App.core\\Model\\Register\\UpdateUserDto.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\Register\\UpdateUserDto.cs",
+              "RelativeToolTip": "App.core\\Model\\Register\\UpdateUserDto.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAzwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:44:55.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EComApplication\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EComApplication\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:25:34.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UpdateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\Product\\UpdateProductDto.cs",
+              "RelativeDocumentMoniker": "App.core\\Model\\Product\\UpdateProductDto.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\Product\\UpdateProductDto.cs",
+              "RelativeToolTip": "App.core\\Model\\Product\\UpdateProductDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T05:46:02.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UpdateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\Product\\Command\\UpdateProductCommand.cs",
+              "RelativeDocumentMoniker": "App.core\\App\\Product\\Command\\UpdateProductCommand.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\Product\\Command\\UpdateProductCommand.cs",
+              "RelativeToolTip": "App.core\\App\\Product\\Command\\UpdateProductCommand.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T05:40:17.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\Register\\UserDto.cs",
+              "RelativeDocumentMoniker": "App.core\\Model\\Register\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\Register\\UserDto.cs",
+              "RelativeToolTip": "App.core\\Model\\Register\\UserDto.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA0wBEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:02:13.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IImageService.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Interface\\IImageService.cs",
+              "RelativeDocumentMoniker": "App.core\\Interface\\IImageService.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Interface\\IImageService.cs",
+              "RelativeToolTip": "App.core\\Interface\\IImageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:29:42.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Domain\\Entity\\Register\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entity\\Register\\User.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Domain\\Entity\\Register\\User.cs",
+              "RelativeToolTip": "Domain\\Entity\\Register\\User.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIAywBsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:30:11.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UpdateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\User\\Command\\UpdateUserCommand.cs",
+              "RelativeDocumentMoniker": "App.core\\App\\User\\Command\\UpdateUserCommand.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\User\\Command\\UpdateUserCommand.cs",
+              "RelativeToolTip": "App.core\\App\\User\\Command\\UpdateUserCommand.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAWwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:35:53.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Interface\\IJwtService.cs",
+              "RelativeDocumentMoniker": "App.core\\Interface\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Interface\\IJwtService.cs",
+              "RelativeToolTip": "App.core\\Interface\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAjwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:57:37.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SalesDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Domain\\Entity\\Products\\SalesDetails.cs",
+              "RelativeDocumentMoniker": "Domain\\Entity\\Products\\SalesDetails.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Domain\\Entity\\Products\\SalesDetails.cs",
+              "RelativeToolTip": "Domain\\Entity\\Products\\SalesDetails.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAzwBoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:17:01.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Domain\\Entity\\Products\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\Entity\\Products\\Product.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Domain\\Entity\\Products\\Product.cs",
+              "RelativeToolTip": "Domain\\Entity\\Products\\Product.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA4wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:33:22.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Domain\\Entity\\Products\\Card.cs",
+              "RelativeDocumentMoniker": "Domain\\Entity\\Products\\Card.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Domain\\Entity\\Products\\Card.cs",
+              "RelativeToolTip": "Domain\\Entity\\Products\\Card.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:41:07.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "OtpDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\Register\\OtpDto.cs",
+              "RelativeDocumentMoniker": "App.core\\Model\\Register\\OtpDto.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\Register\\OtpDto.cs",
+              "RelativeToolTip": "App.core\\Model\\Register\\OtpDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:36:48.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\Register\\LoginDto.cs",
+              "RelativeDocumentMoniker": "App.core\\Model\\Register\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\Register\\LoginDto.cs",
+              "RelativeToolTip": "App.core\\Model\\Register\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:49:24.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ChangePasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\Register\\ChangePasswordDto.cs",
+              "RelativeDocumentMoniker": "App.core\\Model\\Register\\ChangePasswordDto.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\Register\\ChangePasswordDto.cs",
+              "RelativeToolTip": "App.core\\Model\\Register\\ChangePasswordDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:00:34.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AddressDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\Register\\AddressDto.cs",
+              "RelativeDocumentMoniker": "App.core\\Model\\Register\\AddressDto.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\Register\\AddressDto.cs",
+              "RelativeToolTip": "App.core\\Model\\Register\\AddressDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:12:26.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ForgotPasswordCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\User\\Command\\ForgotPasswordCommand.cs",
+              "RelativeDocumentMoniker": "App.core\\App\\User\\Command\\ForgotPasswordCommand.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\User\\Command\\ForgotPasswordCommand.cs",
+              "RelativeToolTip": "App.core\\App\\User\\Command\\ForgotPasswordCommand.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:06:37.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "App.core\\Model\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\ResponseDto.cs",
+              "RelativeToolTip": "App.core\\Model\\ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:20:32.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "InvoiceDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\Cart\\InvoiceDetailsDto.cs",
+              "RelativeDocumentMoniker": "App.core\\Model\\Cart\\InvoiceDetailsDto.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\Cart\\InvoiceDetailsDto.cs",
+              "RelativeToolTip": "App.core\\Model\\Cart\\InvoiceDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:02:22.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "DropdownController.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\Controllers\\DropdownController.cs",
+              "RelativeDocumentMoniker": "EComApplication\\Controllers\\DropdownController.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\Controllers\\DropdownController.cs",
+              "RelativeToolTip": "EComApplication\\Controllers\\DropdownController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:47:17.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DecrementCartQuantityDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\Cart\\DecrementCartQuantityDto.cs",
+              "RelativeDocumentMoniker": "App.core\\Model\\Cart\\DecrementCartQuantityDto.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\Cart\\DecrementCartQuantityDto.cs",
+              "RelativeToolTip": "App.core\\Model\\Cart\\DecrementCartQuantityDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:34:11.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AddToCartDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\Cart\\AddToCartDto.cs",
+              "RelativeDocumentMoniker": "App.core\\Model\\Cart\\AddToCartDto.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\Cart\\AddToCartDto.cs",
+              "RelativeToolTip": "App.core\\Model\\Cart\\AddToCartDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:51:09.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CartDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\Cart\\CartDetailsDto.cs",
+              "RelativeDocumentMoniker": "App.core\\Model\\Cart\\CartDetailsDto.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\Cart\\CartDetailsDto.cs",
+              "RelativeToolTip": "App.core\\Model\\Cart\\CartDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:00:19.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ImageService.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Infrastructure\\Services\\ImageService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\ImageService.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Infrastructure\\Services\\ImageService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\ImageService.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAjwGAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:16:54.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\Product\\ProductDto.cs",
+              "RelativeDocumentMoniker": "App.core\\Model\\Product\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Model\\Product\\ProductDto.cs",
+              "RelativeToolTip": "App.core\\Model\\Product\\ProductDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:06:11.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "GenerateOtp.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\GenerateOtp.cs",
+              "RelativeDocumentMoniker": "App.core\\GenerateOtp.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\GenerateOtp.cs",
+              "RelativeToolTip": "App.core\\GenerateOtp.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T10:52:27.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Domain\\Entity\\Register\\Country.cs",
+              "RelativeDocumentMoniker": "Domain\\Entity\\Register\\Country.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Domain\\Entity\\Register\\Country.cs",
+              "RelativeToolTip": "Domain\\Entity\\Register\\Country.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:46:14.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Otp.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Domain\\Entity\\Register\\Otp.cs",
+              "RelativeDocumentMoniker": "Domain\\Entity\\Register\\Otp.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Domain\\Entity\\Register\\Otp.cs",
+              "RelativeToolTip": "Domain\\Entity\\Register\\Otp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:26:02.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Domain\\Entity\\Register\\State.cs",
+              "RelativeDocumentMoniker": "Domain\\Entity\\Register\\State.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Domain\\Entity\\Register\\State.cs",
+              "RelativeToolTip": "Domain\\Entity\\Register\\State.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:47:28.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Domain\\Entity\\Register\\UserType.cs",
+              "RelativeDocumentMoniker": "Domain\\Entity\\Register\\UserType.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Domain\\Entity\\Register\\UserType.cs",
+              "RelativeToolTip": "Domain\\Entity\\Register\\UserType.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:50:26.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "20241205041212_image.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Infrastructure\\Migrations\\20241205041212_image.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241205041212_image.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Infrastructure\\Migrations\\20241205041212_image.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20241205041212_image.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:12:12.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "20241204192754_invoice-migration.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Infrastructure\\Migrations\\20241204192754_invoice-migration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241204192754_invoice-migration.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Infrastructure\\Migrations\\20241204192754_invoice-migration.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20241204192754_invoice-migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T19:27:54.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "20241204185932_add-sales.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Infrastructure\\Migrations\\20241204185932_add-sales.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241204185932_add-sales.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Infrastructure\\Migrations\\20241204185932_add-sales.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20241204185932_add-sales.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:59:32.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ImageController.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\Controllers\\ImageController.cs",
+              "RelativeDocumentMoniker": "EComApplication\\Controllers\\ImageController.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\Controllers\\ImageController.cs",
+              "RelativeToolTip": "EComApplication\\Controllers\\ImageController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:33:40.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Infrastructure\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Infrastructure\\Services\\JwtService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\JwtService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:56:54.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "DeleteProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\Product\\Command\\DeleteProductCommand.cs",
+              "RelativeDocumentMoniker": "App.core\\App\\Product\\Command\\DeleteProductCommand.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\Product\\Command\\DeleteProductCommand.cs",
+              "RelativeToolTip": "App.core\\App\\Product\\Command\\DeleteProductCommand.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:45:57.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "App.core.csproj",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App.core.csproj",
+              "RelativeDocumentMoniker": "App.core\\App.core.csproj",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App.core.csproj",
+              "RelativeToolTip": "App.core\\App.core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T17:47:35.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "DependancyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\DependancyInjection.cs",
+              "RelativeDocumentMoniker": "App.core\\DependancyInjection.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\DependancyInjection.cs",
+              "RelativeToolTip": "App.core\\DependancyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:26:47.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "20241202175946_update-product.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Infrastructure\\Migrations\\20241202175946_update-product.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241202175946_update-product.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Infrastructure\\Migrations\\20241202175946_update-product.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20241202175946_update-product.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:59:46.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "EComApplication.http",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\EComApplication.http",
+              "RelativeDocumentMoniker": "EComApplication\\EComApplication.http",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\EComApplication.http",
+              "RelativeToolTip": "EComApplication\\EComApplication.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-29T12:03:31.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "GetCountriesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\Dropdown\\GetCountriesQuery.cs",
+              "RelativeDocumentMoniker": "App.core\\App\\Dropdown\\GetCountriesQuery.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\Dropdown\\GetCountriesQuery.cs",
+              "RelativeToolTip": "App.core\\App\\Dropdown\\GetCountriesQuery.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:39:18.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "GetStatesByCountryQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\Dropdown\\GetStatesByCountryQuery.cs",
+              "RelativeDocumentMoniker": "App.core\\App\\Dropdown\\GetStatesByCountryQuery.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\App\\Dropdown\\GetStatesByCountryQuery.cs",
+              "RelativeToolTip": "App.core\\App\\Dropdown\\GetStatesByCountryQuery.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:53:20.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "EComApplication\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "EComApplication\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwBgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T07:48:58.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Interface\\IEmailService.cs",
+              "RelativeDocumentMoniker": "App.core\\Interface\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\App.core\\Interface\\IEmailService.cs",
+              "RelativeToolTip": "App.core\\Interface\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:59:37.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "20241130095809_initial-migration.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Infrastructure\\Migrations\\20241130095809_initial-migration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241130095809_initial-migration.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Infrastructure\\Migrations\\20241130095809_initial-migration.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20241130095809_initial-migration.cs",
+              "ViewState": "AgIAACYBAAAAAAAAACBjwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T09:58:09.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ViewState": "AgIAACgAAAAAAAAAAAAswDUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-11-30T09:17:05.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Infrastructure",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-29T13:00:51.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "EComApplication",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\EComApplication.csproj",
+              "RelativeDocumentMoniker": "EComApplication\\EComApplication.csproj",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\EComApplication.csproj",
+              "RelativeToolTip": "EComApplication\\EComApplication.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-29T13:01:07.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "20241128185915_user-migration.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\SmartData\\SmartData\\Assesment\\Asssesment_7\\backend\\EComApplication\\Infrastructure\\Migrations\\20241128185915_user-migration.cs",
+              "RelativeDocumentMoniker": "..\\..\\SmartData\\SmartData\\Assesment\\Asssesment_7\\backend\\EComApplication\\Infrastructure\\Migrations\\20241128185915_user-migration.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\SmartData\\SmartData\\Assesment\\Asssesment_7\\backend\\EComApplication\\Infrastructure\\Migrations\\20241128185915_user-migration.cs",
+              "RelativeToolTip": "..\\..\\SmartData\\SmartData\\Assesment\\Asssesment_7\\backend\\EComApplication\\Infrastructure\\Migrations\\20241128185915_user-migration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:59:16.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "EComApplication\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\WeatherForecast.cs",
+              "RelativeToolTip": "EComApplication\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:36:49.487Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

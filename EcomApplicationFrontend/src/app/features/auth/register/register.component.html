@@ -1,0 +1,255 @@
+<section
+  class="vh-100 bg-image"
+  style="
+    background-image: url('https://mdbcdn.b-cdn.net/img/Photos/new-templates/search-box/img4.webp');
+  "
+>
+  <div class="mask d-flex align-items-center h-100 gradient-custom-3">
+    <div class="container h-100">
+      <div class="row d-flex justify-content-center align-items-center h-100">
+        <div class="col-12 col-md-9 col-lg-7 col-xl-6">
+          <div class="card" style="border-radius: 15px">
+            <div class="card-body p-4">
+              <h2 class="text-uppercase text-center mb-2">Create an Account</h2>
+
+              <form [formGroup]="registerForm" (ngSubmit)="onSubmit()">
+                <div class="row">
+                  <!-- First Column -->
+                  <div class="col-md-6">
+                    <div class="form-floating mb-3 mt-3">
+                      <input
+                        type="text"
+                        class="form-control"
+                        id="firstName"
+                        minlength="2"
+                        maxlength="12"
+                        pattern="[A-Za-z ]*"
+                        placeholder="Enter First Name"
+                        name="firstName"
+                        formControlName="firstName"
+                        [class.is-invalid]="
+                          registerForm.get('firstName')?.invalid &&
+                          registerForm.get('firstName')?.touched
+                        "
+                        (keypress)="removeNumbers($event)"
+                      />
+                      <label for="firstName">First Name</label>
+                      <div class="invalid-feedback">
+                        FirstName length between 2 to 12.
+                      </div>
+                    </div>
+
+                    <div class="form-floating mb-3 mt-3">
+                      <input
+                        type="text"
+                        class="form-control"
+                        id="lastName"
+                        minlength="2"
+                        maxlength="12"
+                        placeholder="Enter Last Name"
+                        name="lastName"
+                        formControlName="lastName"
+                        [class.is-invalid]="
+                          registerForm.get('lastName')?.invalid &&
+                          registerForm.get('lastName')?.touched
+                        "
+                      />
+                      <label for="lastName">Last Name</label>
+                      <div class="invalid-feedback">
+                        LastName length between 2 to 12.
+                      </div>
+                    </div>
+
+                    <div class="form-floating mb-3 mt-3">
+                      <select
+                        class="form-select"
+                        id="countryId"
+                        formControlName="countryId"
+                        (change)="onCountryChange($event)"
+                      >
+                        <option value="">Select Country</option>
+                        <option
+                          *ngFor="let country of countries"
+                          [value]="country.countryId"
+                        >
+                          {{ country.countryName }}
+                        </option>
+                      </select>
+                      <label for="countryId">Country</label>
+                    </div>
+
+                    <div class="form-floating mb-3 mt-3">
+                      <select
+                        class="form-select"
+                        id="stateId"
+                        formControlName="stateId"
+                      >
+                        <option value="">Select State</option>
+                        <option
+                          *ngFor="let state of states"
+                          [value]="state.stateId"
+                        >
+                          {{ state.stateName }}
+                        </option>
+                      </select>
+                      <label for="stateId">State</label>
+                    </div>
+
+                    <div class="form-floating mb-3 mt-3">
+                      <textarea
+                        class="form-control"
+                        id="address"
+                        placeholder="Enter Address"
+                        name="address"
+                        formControlName="address"
+                        [class.is-invalid]="
+                          registerForm.get('address')?.invalid &&
+                          registerForm.get('address')?.touched
+                        "
+                      ></textarea>
+                      <label for="address">Address</label>
+                      <div class="invalid-feedback">Address is required.</div>
+                    </div>
+                  </div>
+
+                  <!-- Second Column -->
+                  <div class="col-md-6">
+                    <div class="form-floating mb-3 mt-3">
+                      <input
+                        type="email"
+                        class="form-control"
+                        id="email"
+                        placeholder="Enter Email"
+                        name="email"
+                        formControlName="email"
+                        [class.is-invalid]="
+                          registerForm.get('email')?.invalid &&
+                          registerForm.get('email')?.touched
+                        "
+                      />
+                      <label for="email">Email</label>
+                      <div class="invalid-feedback">
+                        Enter a valid email address.
+                      </div>
+                    </div>
+
+                    <div class="form-floating mb-3 mt-3">
+                      <input
+                        type="number"
+                        class="form-control"
+                        id="mobile"
+                        placeholder="Enter Mobile Number"
+                        name="mobile"
+                        formControlName="mobile"
+                        maxlength="10"
+                        (input)="validateMobileLength($event)"
+                        [class.is-invalid]="
+                          registerForm.get('mobile')?.invalid &&
+                          registerForm.get('mobile')?.touched
+                        "
+                      />
+                      <label for="mobile">Mobile</label>
+                      <div class="invalid-feedback">
+                        Mobile number is required and should be exactly 10
+                        digits.
+                      </div>
+                    </div>
+                    <div class="form-floating mb-3 mt-3">
+                      <input
+                        type="date"
+                        class="form-control"
+                        id="dob"
+                        placeholder="Enter DOB"
+                        name="dob"
+                        [max]="todayDate"
+                        formControlName="dob"
+                        [class.is-invalid]="
+                          registerForm.get('dob')?.invalid &&
+                          registerForm.get('dob')?.touched
+                        "
+                      />
+                      <label for="dob">Date of Birth</label>
+
+                      <div class="invalid-feedback">
+                        Date of Birth is required.
+                      </div>
+                    </div>
+
+                    <div class="form-floating mb-3 mt-3">
+                      <select
+                        class="form-select"
+                        id="userTypeId"
+                        formControlName="userTypeId"
+                      >
+                        <option value="">Select User Type</option>
+                        <option value="1">Admin</option>
+                        <option value="2">User</option>
+                      </select>
+                      <label for="userTypeId">User Type</label>
+                      <div class="invalid-feedback">User Type is required.</div>
+                    </div>
+
+                    <div class="form-floating mb-3 mt-3">
+                      <input
+                        type="number"
+                        class="form-control"
+                        id="zipcode"
+                        placeholder="Enter Zipcode"
+                        name="zipcode"
+                        formControlName="zipcode"
+                        (input)="validateZipcodeLength($event)"
+                        [class.is-invalid]="
+                          registerForm.get('zipcode')?.invalid &&
+                          registerForm.get('zipcode')?.touched
+                        "
+                      />
+                      <label for="zipcode">Zipcode</label>
+                      <div class="invalid-feedback">
+                        Zipcode must be a 6-digit number.
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- Full-Width Row for Image Upload -->
+                  <div class="form-floating mb-3 mt-3">
+                    <input
+                      type="file"
+                      class="form-control"
+                      id="profileImage"
+                      (change)="onFileSelect($event)"
+                      accept=".png, .jpg"
+                    />
+                    <label for="profileImage">Upload Profile Image</label>
+                  </div>
+
+                  <div class="d-flex justify-content-center">
+                    <button
+                      type="submit"
+                      class="btn btn-success btn-block btn-lg gradient-custom-4 text-body"
+                      [disabled]="registerForm.invalid"
+                    >
+                      Register
+                    </button>
+                  </div>
+
+                  <p class="text-center text-muted mt-5 mb-0">
+                    Already have an account?
+                    <a routerLink="/auth/sendOtp" class="fw-bold text-body"
+                      ><u>Login here</u></a
+                    >
+                  </p>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+@if(isLoading){
+<div class="loader-backdrop">
+  <div class="loader"></div>
+</div>
+}

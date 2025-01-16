@@ -1,0 +1,445 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\00aa173b-b4ea-43b8-a0d0-aac130313674.jpg",
+      "PackagePath": "staticwebassets\\Images\\00aa173b-b4ea-43b8-a0d0-aac130313674.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\03d13998-7a7b-462c-8efc-ace39aa2d4ab.jpg",
+      "PackagePath": "staticwebassets\\Images\\03d13998-7a7b-462c-8efc-ace39aa2d4ab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\0cac8b58-7f06-489f-89b8-0352e3150f87.jpg",
+      "PackagePath": "staticwebassets\\Images\\0cac8b58-7f06-489f-89b8-0352e3150f87.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\0fae7183-97fe-49b5-afb3-f61059fa83ac.jpg",
+      "PackagePath": "staticwebassets\\Images\\0fae7183-97fe-49b5-afb3-f61059fa83ac.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\10446359-d0b5-4bd1-b84c-8e1cd0576b10.jpg",
+      "PackagePath": "staticwebassets\\Images\\10446359-d0b5-4bd1-b84c-8e1cd0576b10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\108e4dab-0c71-403f-bad8-52674deab0e7.png",
+      "PackagePath": "staticwebassets\\Images\\108e4dab-0c71-403f-bad8-52674deab0e7.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\128402f2-35f6-464b-a5c0-505d626cde91.png",
+      "PackagePath": "staticwebassets\\Images\\128402f2-35f6-464b-a5c0-505d626cde91.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\18e463b5-9b33-4b2e-8cac-e7205d37b5df.png",
+      "PackagePath": "staticwebassets\\Images\\18e463b5-9b33-4b2e-8cac-e7205d37b5df.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\1a7179f4-cd13-46ff-a0ab-f3b4c6e08cea.jpg",
+      "PackagePath": "staticwebassets\\Images\\1a7179f4-cd13-46ff-a0ab-f3b4c6e08cea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\1ae306b2-2b18-4dfb-9b8c-34137ca7e53f.jpg",
+      "PackagePath": "staticwebassets\\Images\\1ae306b2-2b18-4dfb-9b8c-34137ca7e53f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\1bfc549a-0dfb-44cc-8e96-0ddb85e1f37d.jpg",
+      "PackagePath": "staticwebassets\\Images\\1bfc549a-0dfb-44cc-8e96-0ddb85e1f37d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\1ca21dd3-2eb7-4013-ac7a-8cea69c98ce5.png",
+      "PackagePath": "staticwebassets\\Images\\1ca21dd3-2eb7-4013-ac7a-8cea69c98ce5.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\1dea353f-4bc7-4ca0-851c-16e1148181c0.jpg",
+      "PackagePath": "staticwebassets\\Images\\1dea353f-4bc7-4ca0-851c-16e1148181c0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\1eb9034d-b71f-430b-8e27-02218ed3e476.png",
+      "PackagePath": "staticwebassets\\Images\\1eb9034d-b71f-430b-8e27-02218ed3e476.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\20e50a73-5391-4ad1-92ea-d8cc5980a939.jpg",
+      "PackagePath": "staticwebassets\\Images\\20e50a73-5391-4ad1-92ea-d8cc5980a939.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\228c4b44-2d35-47db-a8db-f4f87f06316d.jpg",
+      "PackagePath": "staticwebassets\\Images\\228c4b44-2d35-47db-a8db-f4f87f06316d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\22e42752-6947-49a6-b731-00a8a2ed2edb.jpg",
+      "PackagePath": "staticwebassets\\Images\\22e42752-6947-49a6-b731-00a8a2ed2edb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\247b22fe-457e-44c9-b72a-03f099518004.jpg",
+      "PackagePath": "staticwebassets\\Images\\247b22fe-457e-44c9-b72a-03f099518004.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\269eb5b1-7040-4c3a-a130-e53fd1394838.png",
+      "PackagePath": "staticwebassets\\Images\\269eb5b1-7040-4c3a-a130-e53fd1394838.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\2a2f9e3e-d7dd-4752-9b8b-4c24859f6eea.png",
+      "PackagePath": "staticwebassets\\Images\\2a2f9e3e-d7dd-4752-9b8b-4c24859f6eea.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\2ab679c0-1783-4f46-8008-071fa43cadd0.jpg",
+      "PackagePath": "staticwebassets\\Images\\2ab679c0-1783-4f46-8008-071fa43cadd0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\2cc47cb3-4344-47be-808d-17bd950e3d10.jpg",
+      "PackagePath": "staticwebassets\\Images\\2cc47cb3-4344-47be-808d-17bd950e3d10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\2f1211dd-d218-47e7-9777-86fa31053f32.jpg",
+      "PackagePath": "staticwebassets\\Images\\2f1211dd-d218-47e7-9777-86fa31053f32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\2f663c53-9d19-4e10-bc9f-4f4e4b526c43.jpg",
+      "PackagePath": "staticwebassets\\Images\\2f663c53-9d19-4e10-bc9f-4f4e4b526c43.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\31c45348-ce8e-4fc5-bec1-2bf542bf4bd6.jpg",
+      "PackagePath": "staticwebassets\\Images\\31c45348-ce8e-4fc5-bec1-2bf542bf4bd6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\3359656e-2be6-4c5d-b41e-f0441ddfa83a.png",
+      "PackagePath": "staticwebassets\\Images\\3359656e-2be6-4c5d-b41e-f0441ddfa83a.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\361455c6-1d0a-4fd1-bb54-f088568986ca.jpg",
+      "PackagePath": "staticwebassets\\Images\\361455c6-1d0a-4fd1-bb54-f088568986ca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\36697692-cc40-4295-8aa6-5bc7467e8e92.png",
+      "PackagePath": "staticwebassets\\Images\\36697692-cc40-4295-8aa6-5bc7467e8e92.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\37a7e484-6622-4208-a2f0-4cb28df5fd33.jpg",
+      "PackagePath": "staticwebassets\\Images\\37a7e484-6622-4208-a2f0-4cb28df5fd33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\3d88ea43-44f5-4965-b7f8-104363348ab1.png",
+      "PackagePath": "staticwebassets\\Images\\3d88ea43-44f5-4965-b7f8-104363348ab1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\413230b1-e568-432e-b068-385bea0d1e06.png",
+      "PackagePath": "staticwebassets\\Images\\413230b1-e568-432e-b068-385bea0d1e06.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\43800b0c-4a31-47a0-b6ab-df93d8205fa2.jpg",
+      "PackagePath": "staticwebassets\\Images\\43800b0c-4a31-47a0-b6ab-df93d8205fa2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\4510a3a0-6cd2-4131-bca7-e89ed6ec0139.jpg",
+      "PackagePath": "staticwebassets\\Images\\4510a3a0-6cd2-4131-bca7-e89ed6ec0139.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\46331d04-5d6f-4068-a2f5-9994b247c35b.png",
+      "PackagePath": "staticwebassets\\Images\\46331d04-5d6f-4068-a2f5-9994b247c35b.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\468d0c5f-f5e4-440d-9d23-57530dfb23e6.jpg",
+      "PackagePath": "staticwebassets\\Images\\468d0c5f-f5e4-440d-9d23-57530dfb23e6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\46e960e6-56dd-49b1-806e-e64efb99d187.png",
+      "PackagePath": "staticwebassets\\Images\\46e960e6-56dd-49b1-806e-e64efb99d187.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\58002458-8526-4449-80d7-11574ece2c45.png",
+      "PackagePath": "staticwebassets\\Images\\58002458-8526-4449-80d7-11574ece2c45.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\5ec9ae88-3ce2-4777-9976-2b96bd88f062.png",
+      "PackagePath": "staticwebassets\\Images\\5ec9ae88-3ce2-4777-9976-2b96bd88f062.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\661b67e4-1588-4f00-acac-70d32134f53b.jpg",
+      "PackagePath": "staticwebassets\\Images\\661b67e4-1588-4f00-acac-70d32134f53b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\66533bf0-c2ff-418a-a1a2-cb87adc462e6.jpg",
+      "PackagePath": "staticwebassets\\Images\\66533bf0-c2ff-418a-a1a2-cb87adc462e6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\6750dc5a-bc26-4183-9333-b4c5ab27852d.jpg",
+      "PackagePath": "staticwebassets\\Images\\6750dc5a-bc26-4183-9333-b4c5ab27852d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\6ac57d55-7456-4704-926d-4f495d054409.jpg",
+      "PackagePath": "staticwebassets\\Images\\6ac57d55-7456-4704-926d-4f495d054409.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\6b3db4d9-17d0-42c5-b125-c0d3fc12dd0d.jpg",
+      "PackagePath": "staticwebassets\\Images\\6b3db4d9-17d0-42c5-b125-c0d3fc12dd0d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\6bdb11eb-0a12-4d95-9634-e576cc28383c.png",
+      "PackagePath": "staticwebassets\\Images\\6bdb11eb-0a12-4d95-9634-e576cc28383c.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\6c86004a-ef68-422a-9771-779813fe6112.jpg",
+      "PackagePath": "staticwebassets\\Images\\6c86004a-ef68-422a-9771-779813fe6112.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\6ed7ce63-6835-44c0-b2d9-7f157d54c922.jpg",
+      "PackagePath": "staticwebassets\\Images\\6ed7ce63-6835-44c0-b2d9-7f157d54c922.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\72847ff1-749d-428c-811d-4fde98b8bc3b.png",
+      "PackagePath": "staticwebassets\\Images\\72847ff1-749d-428c-811d-4fde98b8bc3b.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\72d577ef-38ef-484c-8289-23cdaa4ae3d7.png",
+      "PackagePath": "staticwebassets\\Images\\72d577ef-38ef-484c-8289-23cdaa4ae3d7.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\7458f592-af2f-4ef7-8c26-be13a32353f3.png",
+      "PackagePath": "staticwebassets\\Images\\7458f592-af2f-4ef7-8c26-be13a32353f3.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\7ac73916-1898-4501-aebf-9975ecb56f3e.png",
+      "PackagePath": "staticwebassets\\Images\\7ac73916-1898-4501-aebf-9975ecb56f3e.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\7cb98c64-a806-4015-817c-b7172df3988c.png",
+      "PackagePath": "staticwebassets\\Images\\7cb98c64-a806-4015-817c-b7172df3988c.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\8d94d96a-0348-491d-a59b-4c1eaa95bbc4.jpg",
+      "PackagePath": "staticwebassets\\Images\\8d94d96a-0348-491d-a59b-4c1eaa95bbc4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\8db8b1e4-125e-4b49-b1ba-6b433ba6d5a4.jpg",
+      "PackagePath": "staticwebassets\\Images\\8db8b1e4-125e-4b49-b1ba-6b433ba6d5a4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\92a0a71a-6d47-4791-8008-eb65c3e0fd95.jpg",
+      "PackagePath": "staticwebassets\\Images\\92a0a71a-6d47-4791-8008-eb65c3e0fd95.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\936be88f-ee12-4e59-a692-3cc1eb958812.jpg",
+      "PackagePath": "staticwebassets\\Images\\936be88f-ee12-4e59-a692-3cc1eb958812.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\9727668b-7acb-47d4-8ffe-f1ecab0375a5.jpg",
+      "PackagePath": "staticwebassets\\Images\\9727668b-7acb-47d4-8ffe-f1ecab0375a5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\97e71879-5d1a-41ad-9f89-a5e2e08e2957.png",
+      "PackagePath": "staticwebassets\\Images\\97e71879-5d1a-41ad-9f89-a5e2e08e2957.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\982180fb-1ad7-404c-83b1-99585b68c7a4.jpg",
+      "PackagePath": "staticwebassets\\Images\\982180fb-1ad7-404c-83b1-99585b68c7a4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\9b68f9f5-101d-49c1-8a75-b9eef1935d4b.jpg",
+      "PackagePath": "staticwebassets\\Images\\9b68f9f5-101d-49c1-8a75-b9eef1935d4b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\9b95487e-6f05-4e69-a09b-a6a8fe358d66.png",
+      "PackagePath": "staticwebassets\\Images\\9b95487e-6f05-4e69-a09b-a6a8fe358d66.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\9c0c3ac9-6ed3-46fe-bee6-d02085cd2a13.png",
+      "PackagePath": "staticwebassets\\Images\\9c0c3ac9-6ed3-46fe-bee6-d02085cd2a13.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\a1156274-5f66-4360-9aba-259b965624b3.jpg",
+      "PackagePath": "staticwebassets\\Images\\a1156274-5f66-4360-9aba-259b965624b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\a3f8beda-73c3-4e4f-8a71-0e521c623e51.jpg",
+      "PackagePath": "staticwebassets\\Images\\a3f8beda-73c3-4e4f-8a71-0e521c623e51.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\a5293d86-c9d0-49bd-bbd3-fb738213547a.jpg",
+      "PackagePath": "staticwebassets\\Images\\a5293d86-c9d0-49bd-bbd3-fb738213547a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\a61b29cf-011a-4fe7-bb50-d3acf527bcbc.jpg",
+      "PackagePath": "staticwebassets\\Images\\a61b29cf-011a-4fe7-bb50-d3acf527bcbc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\a6a55961-eb7c-46fa-a3c8-62192d1b5173.jpg",
+      "PackagePath": "staticwebassets\\Images\\a6a55961-eb7c-46fa-a3c8-62192d1b5173.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\ac35a2b8-9e5c-43f0-8528-65739dd4ad4a.jpg",
+      "PackagePath": "staticwebassets\\Images\\ac35a2b8-9e5c-43f0-8528-65739dd4ad4a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\ac7e6c03-a2cc-453d-b8d1-ddfbdebf9c73.jpg",
+      "PackagePath": "staticwebassets\\Images\\ac7e6c03-a2cc-453d-b8d1-ddfbdebf9c73.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\adf5357c-96db-4e7e-8734-6a5869128c85.jpg",
+      "PackagePath": "staticwebassets\\Images\\adf5357c-96db-4e7e-8734-6a5869128c85.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\adf94d91-d15f-469b-afda-df1af579019c.jpg",
+      "PackagePath": "staticwebassets\\Images\\adf94d91-d15f-469b-afda-df1af579019c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\aee35e3d-0216-43f9-b020-572c631b6ff7.png",
+      "PackagePath": "staticwebassets\\Images\\aee35e3d-0216-43f9-b020-572c631b6ff7.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\b14d2791-34c5-4f3a-b543-f2410a6b036a.png",
+      "PackagePath": "staticwebassets\\Images\\b14d2791-34c5-4f3a-b543-f2410a6b036a.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\b363d6cf-3a6a-433f-bfee-74e98c66a2ea.png",
+      "PackagePath": "staticwebassets\\Images\\b363d6cf-3a6a-433f-bfee-74e98c66a2ea.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\b38054e6-eeca-4f3d-83a9-37d3c7452b98.png",
+      "PackagePath": "staticwebassets\\Images\\b38054e6-eeca-4f3d-83a9-37d3c7452b98.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\b39fd6c4-1e06-4a78-8487-c722b43c2f1f.jpg",
+      "PackagePath": "staticwebassets\\Images\\b39fd6c4-1e06-4a78-8487-c722b43c2f1f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\b413b350-0669-42ba-8a74-d71764f0e3f4.png",
+      "PackagePath": "staticwebassets\\Images\\b413b350-0669-42ba-8a74-d71764f0e3f4.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\b6bdf7c8-2b62-461b-9924-875940abf74c.jpg",
+      "PackagePath": "staticwebassets\\Images\\b6bdf7c8-2b62-461b-9924-875940abf74c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\b7c9734b-139f-484a-ba1f-e2db452bbe14.jpg",
+      "PackagePath": "staticwebassets\\Images\\b7c9734b-139f-484a-ba1f-e2db452bbe14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\bdc74c84-bf03-461b-843f-6143c204e839.jpg",
+      "PackagePath": "staticwebassets\\Images\\bdc74c84-bf03-461b-843f-6143c204e839.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\c1b35282-c17c-447a-9663-50023fd35af6.png",
+      "PackagePath": "staticwebassets\\Images\\c1b35282-c17c-447a-9663-50023fd35af6.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\c255d9e1-683b-4ac4-ae2c-5be2ac02b797.jpg",
+      "PackagePath": "staticwebassets\\Images\\c255d9e1-683b-4ac4-ae2c-5be2ac02b797.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\c42cf3d4-109b-4259-8e18-ef0c7ad48fd3.jpg",
+      "PackagePath": "staticwebassets\\Images\\c42cf3d4-109b-4259-8e18-ef0c7ad48fd3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\c8a24790-1313-4f5a-bfe6-fdb785e3f374.png",
+      "PackagePath": "staticwebassets\\Images\\c8a24790-1313-4f5a-bfe6-fdb785e3f374.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\d3dc4e59-1d59-47dd-97cb-4f20727134a9.jpg",
+      "PackagePath": "staticwebassets\\Images\\d3dc4e59-1d59-47dd-97cb-4f20727134a9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\d692884e-3ea6-4c83-9d4e-853b537a0f1f.png",
+      "PackagePath": "staticwebassets\\Images\\d692884e-3ea6-4c83-9d4e-853b537a0f1f.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\d8cec884-57b3-4b94-bfec-6db6398c185a.png",
+      "PackagePath": "staticwebassets\\Images\\d8cec884-57b3-4b94-bfec-6db6398c185a.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\da92dd66-dfe3-472f-b5ef-16af483b023b.png",
+      "PackagePath": "staticwebassets\\Images\\da92dd66-dfe3-472f-b5ef-16af483b023b.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\dbea2fa2-5b35-4270-936c-9ed2a48c4123.png",
+      "PackagePath": "staticwebassets\\Images\\dbea2fa2-5b35-4270-936c-9ed2a48c4123.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\dcf01fc0-8b30-43d5-b8a8-e1f0877a6c0e.jpg",
+      "PackagePath": "staticwebassets\\Images\\dcf01fc0-8b30-43d5-b8a8-e1f0877a6c0e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\ddc068be-89d3-4bb9-8660-79d338a4069c.jpg",
+      "PackagePath": "staticwebassets\\Images\\ddc068be-89d3-4bb9-8660-79d338a4069c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\e0309e2c-9eb3-4ff4-bf55-5766ec71b398.jpg",
+      "PackagePath": "staticwebassets\\Images\\e0309e2c-9eb3-4ff4-bf55-5766ec71b398.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\e11eca63-9662-4ae4-a0ae-1ee241dee1a3.jpg",
+      "PackagePath": "staticwebassets\\Images\\e11eca63-9662-4ae4-a0ae-1ee241dee1a3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\e5d13a38-6725-4dc5-9379-ff285665c1f0.jpg",
+      "PackagePath": "staticwebassets\\Images\\e5d13a38-6725-4dc5-9379-ff285665c1f0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\e62c0a06-b772-48a0-b33a-3d2d45a53507.png",
+      "PackagePath": "staticwebassets\\Images\\e62c0a06-b772-48a0-b33a-3d2d45a53507.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\e847e373-a7ea-4ebd-81ac-c47f6f169523.jpg",
+      "PackagePath": "staticwebassets\\Images\\e847e373-a7ea-4ebd-81ac-c47f6f169523.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\eaaac54b-3162-40bd-9352-679c15e347b5.jpg",
+      "PackagePath": "staticwebassets\\Images\\eaaac54b-3162-40bd-9352-679c15e347b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\ec24e262-c1ef-41fe-a3bd-0835c3ad409f.jpg",
+      "PackagePath": "staticwebassets\\Images\\ec24e262-c1ef-41fe-a3bd-0835c3ad409f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\eea42c9f-dc65-445c-8561-9868df410d8c.jpg",
+      "PackagePath": "staticwebassets\\Images\\eea42c9f-dc65-445c-8561-9868df410d8c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\f5e9c732-68e2-4951-91dd-cee0e368972e.jpg",
+      "PackagePath": "staticwebassets\\Images\\f5e9c732-68e2-4951-91dd-cee0e368972e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\f95dbe89-dd0e-4f89-8a18-d0eab2931229.jpg",
+      "PackagePath": "staticwebassets\\Images\\f95dbe89-dd0e-4f89-8a18-d0eab2931229.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\fa55a055-d559-411b-840a-a7557b462293.png",
+      "PackagePath": "staticwebassets\\Images\\fa55a055-d559-411b-840a-a7557b462293.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\fbbe42c1-c3b2-4ccb-9ada-7fb8fa04fc1f.jpg",
+      "PackagePath": "staticwebassets\\Images\\fbbe42c1-c3b2-4ccb-9ada-7fb8fa04fc1f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\fc6b9005-6358-4cf8-9fa0-9f93665d5f2d.png",
+      "PackagePath": "staticwebassets\\Images\\fc6b9005-6358-4cf8-9fa0-9f93665d5f2d.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\fcca5756-9bd0-4d87-ad84-41bc5abd07c4.jpg",
+      "PackagePath": "staticwebassets\\Images\\fcca5756-9bd0-4d87-ad84-41bc5abd07c4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\fce9d5cd-d10f-4ddb-bf61-8a3604c82d9b.png",
+      "PackagePath": "staticwebassets\\Images\\fce9d5cd-d10f-4ddb-bf61-8a3604c82d9b.png"
+    },
+    {
+      "Id": "C:\\Users\\Mayur Ramdham\\Desktop\\EComApplication\\EComApplicationBackend\\EComApplication\\wwwroot\\Images\\ff0dadfc-73fb-4155-873f-f8f218471c7b.png",
+      "PackagePath": "staticwebassets\\Images\\ff0dadfc-73fb-4155-873f-f8f218471c7b.png"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.EComApplication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.EComApplication.props",
+      "PackagePath": "build\\EComApplication.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EComApplication.props",
+      "PackagePath": "buildMultiTargeting\\EComApplication.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.EComApplication.props",
+      "PackagePath": "buildTransitive\\EComApplication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

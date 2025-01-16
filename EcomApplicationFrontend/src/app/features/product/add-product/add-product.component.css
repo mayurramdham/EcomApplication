@@ -1,0 +1,67 @@
+.modal-content {
+  border-radius: 10px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  animation: slideIn 0.5s ease;
+}
+
+.modal-header {
+  border-bottom: 2px solid #004085;
+}
+
+.modal-footer {
+  border-top: 2px solid #004085;
+}
+
+.btn-lg {
+  font-size: 1.25rem;
+  padding: 10px 20px;
+}
+
+.shadow-sm {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateY(-50px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+/* product table css */
+
+table {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.table-hover tbody tr:hover {
+  background-color: #f8f9fa;
+  cursor: pointer;
+}
+
+.table-responsive {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.btn {
+  border-radius: 5px;
+}
+
+.btn-warning {
+  color: #fff;
+  background-color: #ffc107;
+  border-color: #ffc107;
+}
+
+.btn-danger {
+  color: #fff;
+  background-color: #dc3545;
+  border-color: #dc3545;
+}
